@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+    <string name="main_activity_title">Play Music</string>
+    <string name="now_playing_title">Now Playing</string>
+    <string name="artist_info_title">Artist Info</string>
+
+    <string name="now_playing_button">Now Playing</string>
+    <string name="artist_info_button">Get Artist Info</string>
+
+    <string name="main_activity">This is the main activity, from here you can select a song. This will launch NowPlaying Activity where the music will play.</string>
+    <string name="now_playing_activity">Songs are played here, From here you can select the button to launch ArtistInfoActivity.</string>
+    <string name="artist_info_activity">This is activity where the artist info is shown.</string>
+
+</resources>
